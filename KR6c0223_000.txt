@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說聖佛母小字般若波羅蜜多經
+#+DATE: 2015-08-30 19:47:01.108964
+#+PROPERTY: JUAN 0
