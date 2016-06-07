@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:00.934375
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:29
 #+TITLE: 佛說聖佛母小字般若波羅蜜多經
 #+PROPERTY: CBETA_ID T08n0258
 #+PROPERTY: ID KR6c0223
